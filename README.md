@@ -1,6 +1,6 @@
 # Generador-Payloads
 # By: @RealStrategy
-# Date: 29/09/2022
+# Date: 29/09/2024
 # Telegram: https://t.me/RealHackRWAM
 
 Programa para generar una cantidad de payloads usando paginas web o mejor conocido como: host, dominios, url. Estos payloads funcionan en la gran mayoria de aplicaciones (VPN) que necesiten carga util (Payload) para poder conectarse a INTERNET (BUG). 
